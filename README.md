@@ -128,16 +128,20 @@ Some important findings from the dashboard:
 ## Dashboard Preview
 
 ### Full Dashboard
-![Dashboard Overview]("dashboard-overview.png")
+<img width="1410" height="588" alt="image" src="https://github.com/user-attachments/assets/67844314-a1d6-40b0-ac40-c02cd5938f79" />
+
 
 ### Sales by Region
-![Sales Region]("Screenshots\year-wise-sales-dashboard.png")
+<img width="1364" height="584" alt="image" src="https://github.com/user-attachments/assets/c9bfefe8-45e9-45a9-b60a-90b13ac1497b" />
+
 
 ### Product Profit Analysis
-![Product Analysis]("C:\Users\maury\OneDrive\Pictures\Screenshots\2012year-wise-sales-dashboard.png")
+<img width="1699" height="713" alt="image" src="https://github.com/user-attachments/assets/206069f0-5d79-4b05-89c7-fd6ced8c4f6b" />
+
 
 ### KPI Dashboard
-![KPI Analysis]("C:\Users\maury\OneDrive\Pictures\Screenshots\kpi-analysis.png")
+<img width="1407" height="585" alt="image" src="https://github.com/user-attachments/assets/0b63beb1-fe73-4165-8f67-690864210513" />
+
 
 
 **Prachi Maurya**  
