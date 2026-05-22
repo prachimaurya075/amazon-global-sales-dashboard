@@ -128,7 +128,7 @@ Some important findings from the dashboard:
 ## Dashboard Preview
 
 ### Full Dashboard
-![Dashboard Overview]("C:\Users\maury\OneDrive\Pictures\Screenshots\dashboard-overview.png")
+![Dashboard Overview]("dashboard-overview.png")
 
 ### Sales by Region
 ![Sales Region]("C:\Users\maury\OneDrive\Pictures\Screenshots\year-wise-sales-dashboard.png")
