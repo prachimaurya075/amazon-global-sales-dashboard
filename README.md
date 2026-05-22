@@ -1,4 +1,4 @@
-<img width="1729" height="728" alt="year-wise-sales-dashboard" src="https://github.com/user-attachments/assets/a914b9ed-70a6-4536-b434-0ce81f7042ee" /># Amazon Global Sales Dashboard | Power BI
+Global Sales Dashboard | Power BI
 
 ## Project Overview
 This project presents an interactive **Amazon Global Sales Dashboard** built in **Power BI** to analyze sales performance, market distribution, customer profitability, and product insights across different regions.
@@ -131,7 +131,7 @@ Some important findings from the dashboard:
 ![Dashboard Overview]("dashboard-overview.png")
 
 ### Sales by Region
-![Sales Region]("C:\Users\maury\OneDrive\Pictures\Screenshots\year-wise-sales-dashboard.png")
+![Sales Region]("Screenshots\year-wise-sales-dashboard.png")
 
 ### Product Profit Analysis
 ![Product Analysis]("C:\Users\maury\OneDrive\Pictures\Screenshots\2012year-wise-sales-dashboard.png")
